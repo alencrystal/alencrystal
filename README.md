@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alen
 - 🖥️ I’m interested in develop apps or site
 - 🌱 I’m currently learning how to program in java
-- 📫 You can reach me by Instagram or Discord
+- 📫 You can reach me by Instagram
 - 💜 Pronouns: they/them
 
 <!---
