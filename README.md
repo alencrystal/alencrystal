@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alen
 - 🖥️ I’m interested in developing apps and websites
-- 🌱 I’m currently learning how to code in Java
+- 🌱 I’m currently learning how to code in Python
 - 📫 You can contact me on Linkedin
 - 💜 Pronouns: he/him
 
