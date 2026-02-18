@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi everyone! I'm **Alessandro**, 21 years old — though people usually call me **Alen**.  
+Hi everyone! I'm **Alessandro**, 22 years old — though people usually call me **Alen**.  
 I'm not a full-time developer (actually I do something completely different in life 😅),  
 but I *did* study system administration and I love coding in my free time.
 
