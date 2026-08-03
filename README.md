@@ -56,12 +56,12 @@ but I *did* create a small, cute portfolio — feel free to check it out:😊
 ## 🔧 Tech I Use
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" width="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0K1pid1KZGG8O7heTiW4Hsck66g3Nsc0qg&s" width="40"/>
-  <img src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g" width="40"/>
-  <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" width="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0K1pid1KZGG8O7heTiW4Hsck66g3Nsc0qg&s" width="40"/>
+<img src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g" width="40"/>
+<img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows"/>
   
 </p>
 
